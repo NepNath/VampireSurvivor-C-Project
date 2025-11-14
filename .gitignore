@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+
+
+bin/*
+build/*
+out/*
+.vs/*
+.mypy_cache/*
